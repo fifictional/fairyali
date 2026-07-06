@@ -2,14 +2,6 @@
 
 A curated aesthetic fashion catalog with AliExpress affiliate links.
 
-## Categories
-
-- [Cottagecore](cottagecore.html)
-- [Fairycore](fairycore.html)
-- [Soft / Sleepy Core](softcore.html)
-
-Each category includes a "no bottoms" variant accessible via the page toggle.
-
 ## Project Structure
 
 ```
